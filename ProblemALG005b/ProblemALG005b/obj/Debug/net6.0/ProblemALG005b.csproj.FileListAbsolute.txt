@@ -1,0 +1,15 @@
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\bin\Debug\net6.0\ProblemALG005b.exe
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\bin\Debug\net6.0\ProblemALG005b.deps.json
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\bin\Debug\net6.0\ProblemALG005b.runtimeconfig.json
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\bin\Debug\net6.0\ProblemALG005b.dll
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\bin\Debug\net6.0\ProblemALG005b.pdb
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.csproj.AssemblyReference.cache
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.AssemblyInfoInputs.cache
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.AssemblyInfo.cs
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.csproj.CoreCompileInputs.cache
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.dll
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\refint\ProblemALG005b.dll
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.pdb
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ProblemALG005b.genruntimeconfig.cache
+C:\Users\Zbook\Desktop\ProblemALG005b\ProblemALG005b\obj\Debug\net6.0\ref\ProblemALG005b.dll

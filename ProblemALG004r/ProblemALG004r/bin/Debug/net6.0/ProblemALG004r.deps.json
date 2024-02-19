@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProblemALG004r/1.0.0": {
+        "runtime": {
+          "ProblemALG004r.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProblemALG004r/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
